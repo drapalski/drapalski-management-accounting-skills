@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 450" role="img" aria-labelledby="title desc">
+<title id="title">Drapalski AI Skills workflow</title>
+<desc id="desc">Choose a skill, install it, ask an AI assistant, and practice business decisions.</desc>
+<rect width="1440" height="450" rx="26" fill="#FAF9FB"/>
+<text x="66" y="85" font-family="Arial,sans-serif" font-weight="700" font-size="42" fill="#202026">FROM SKILLS TO DECISIONS</text>
+<text x="67" y="118" font-family="Arial,sans-serif" font-size="20" fill="#6B6872">A simple workflow for guided management accounting</text>
+<rect x="60" y="163" width="300" height="204" rx="18" fill="#FFFFFF" stroke="#E9E7EC" stroke-width="2"/>
+    <circle cx="107" cy="205" r="24" fill="#F70786"/>
+    <text x="107" y="214" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">01</text>
+    <text x="86" y="273" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#202026">CHOOSE</text>
+    <text x="86" y="315" font-family="Arial,sans-serif" font-size="17" fill="#6B6872">Select a topic</text>
+<path d="M 371 263 L 399 263" stroke="#F70786" stroke-width="4" stroke-linecap="round"/><path d="M 389 254 L 399 263 L 389 272" stroke="#F70786" stroke-width="4" fill="none"/>
+<rect x="408" y="163" width="300" height="204" rx="18" fill="#FFFFFF" stroke="#E9E7EC" stroke-width="2"/>
+    <circle cx="455" cy="205" r="24" fill="#F70786"/>
+    <text x="455" y="214" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">02</text>
+    <text x="434" y="273" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#202026">INSTALL</text>
+    <text x="434" y="315" font-family="Arial,sans-serif" font-size="17" fill="#6B6872">Add it to your agent</text>
+<path d="M 719 263 L 747 263" stroke="#F70786" stroke-width="4" stroke-linecap="round"/><path d="M 737 254 L 747 263 L 737 272" stroke="#F70786" stroke-width="4" fill="none"/>
+<rect x="756" y="163" width="300" height="204" rx="18" fill="#FFFFFF" stroke="#E9E7EC" stroke-width="2"/>
+    <circle cx="803" cy="205" r="24" fill="#F70786"/>
+    <text x="803" y="214" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">03</text>
+    <text x="782" y="273" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#202026">ASK</text>
+    <text x="782" y="315" font-family="Arial,sans-serif" font-size="17" fill="#6B6872">Practice with guidance</text>
+<path d="M 1067 263 L 1095 263" stroke="#F70786" stroke-width="4" stroke-linecap="round"/><path d="M 1085 254 L 1095 263 L 1085 272" stroke="#F70786" stroke-width="4" fill="none"/>
+<rect x="1104" y="163" width="300" height="204" rx="18" fill="#FFFFFF" stroke="#E9E7EC" stroke-width="2"/>
+    <circle cx="1151" cy="205" r="24" fill="#F70786"/>
+    <text x="1151" y="214" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">04</text>
+    <text x="1130" y="273" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#202026">APPLY</text>
+    <text x="1130" y="315" font-family="Arial,sans-serif" font-size="17" fill="#6B6872">Make better decisions</text>
+</svg>
