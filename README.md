@@ -8,6 +8,18 @@ An independent **Drapalski Consulting** library of 11 reusable Agent Skills for 
 
 ![Choose → Install → Ask → Apply](assets/ai-skills-workflow.svg)
 
+## Featured Article
+
+### From Answers to Understanding: Introducing Drapalski Management Accounting AI Skills
+
+How can AI make management accounting more interactive, accessible, and practical?
+
+In this article, I introduce the **Drapalski Management Accounting AI Skills Library**, an open collection of 11 reusable AI Skills designed to support financial analysis, controlling, budgeting, and business decision-making.
+
+**[Read the full article on Substack →](https://drapalski.substack.com/p/from-answers-to-understanding-introducing)**
+
+Explore the AI Skills, follow the [installation guide](INSTALL.md), and start learning with practical exercises and interactive AI-assisted analysis.
+
 ## Install in one command
 
 **You need:** [Node.js (LTS)](https://nodejs.org/), internet access and a **compatible AI agent** (for example Claude Code or Cursor with Agent Skills support).
